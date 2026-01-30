@@ -26,46 +26,46 @@ Witaj w oficjalnym repozytorium naszego modpacka! Poniżej znajdziesz instrukcj�
 
 ## 📜 Lista modów
 * Amendments
-Architectury
-Clean Swing Through Grass
-Configured
-Controlling
-Create
-CreateFirmaCraft
-Embeddium
-FTB Chunks
-FTB Library
-FTB Teams
-Fastload-Reforged
-Ferrite Core
-Firmalife
-Gravestone Mod
-Jade
-Just Enough Items
-Just Enough Resources
-KubeJS
-KubeJS Create
-Moonlight Library
-MyServerIsCompatible
-Oculus
-Oculus Flywheel Compat
-Patchouli
-Pick Up Notifier
-Purified Water
-Puzzles Lib
-Radium
-Rhino
-Searchables
-Simple Voice Chat
-Sodium Dynamic Lights
-Sodium Extras
-Sodium Options API
-Sodium Options Mod Compat
-Sound Physics Remastered
-Starlight
-Supplementaries
-TFC Water Flasks
-TFCmodpack
-TerraFirmaCraft
-Visual Workbench
-Zoomify
+* Architectury
+* Clean Swing Through Grass
+* Configured
+* Controlling
+* Create
+* CreateFirmaCraft
+* Embeddium
+* FTB Chunks
+* FTB Library
+* FTB Teams
+* Fastload-Reforged
+* Ferrite Core
+* Firmalife
+* Gravestone Mod
+* Jade
+* Just Enough Items
+* Just Enough Resources
+* KubeJS
+* KubeJS Create
+* Moonlight Library
+* MyServerIsCompatible
+* Oculus
+* Oculus Flywheel Compat
+* Patchouli
+* Pick Up Notifier
+* Purified Water
+* Puzzles Lib
+* Radium
+* Rhino
+* Searchables
+* Simple Voice Chat
+* Sodium Dynamic Lights
+* Sodium Extras
+* Sodium Options API
+* Sodium Options Mod Compat
+* Sound Physics Remastered
+* Starlight
+* Supplementaries
+* TFC Water Flasks
+* TFCmodpack
+* TerraFirmaCraft
+* Visual Workbench
+* Zoomify
