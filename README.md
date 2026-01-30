@@ -28,15 +28,14 @@ Witaj w oficjalnym repozytorium naszego modpacka! PoniÅ¼ej znajdziesz instrukcjÄ
 * Controlling
 * Create
 * CreateFirmaCraft
+* Distant Horizons
 * Embeddium
-* FTB Chunks
-* FTB Library
-* FTB Teams
 * Fastload-Reforged
 * Ferrite Core
 * Firmalife
 * Gravestone Mod
 * Jade
+* Journeymap
 * Just Enough Items
 * Just Enough Resources
 * KubeJS
@@ -61,7 +60,7 @@ Witaj w oficjalnym repozytorium naszego modpacka! PoniÅ¼ej znajdziesz instrukcjÄ
 * Starlight
 * Supplementaries
 * TFC Water Flasks
-* TFCmodpack
 * TerraFirmaCraft
 * Visual Workbench
 * Zoomify
+* mods.rar
