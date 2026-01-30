@@ -16,11 +16,7 @@ Witaj w oficjalnym repozytorium naszego modpacka! Poniżej znajdziesz instrukcj�
    - Kliknij po prawej stronie przycisk `Releases`
    - Wybierz **Download ZIP**.
 2. **Dodaj do launchera:**
-   - Otwórz Crystal Launcher.
-   - Wybierz opcję dodawania nowej instancji/paczki.
-   - Wybierz **Importuj z pliku (.zip)** i wskaż pobrany przed chwilą plik.
-3. **Ustawienia:**
-   - Wejdź w ustawienia instancji i upewnij się, że masz przypisaną odpowiednią ilość pamięci RAM.
+   - na logike
 
 ---
 
