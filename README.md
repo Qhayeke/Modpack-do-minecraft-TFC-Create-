@@ -10,7 +10,7 @@ Witaj w oficjalnym repozytorium naszego modpacka! Poniżej znajdziesz instrukcj�
 
 ---
 
-## 🚀 Jak zainstalować (Crystal Launcher)
+## 🚀 Jak zainstalować
 
 1. **Pobierz paczkę:**
    - Kliknij po prawej stronie przycisk `Releases`
